@@ -16,7 +16,7 @@ function funTic() {
   time_bg.style.background = '#fff';
   time.style.color = '#000'
   img.style.display = 'none';
-  hero_bg.style.backgroundImage = 'url(img/bg.png)';
+  hero_bg.style.backgroundImage = 'url(./img/bg.png)';
   bg.style.backgroundColor = '#fff'
   del.style.display = 'none';
 }
